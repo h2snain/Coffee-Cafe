@@ -8,8 +8,6 @@ This is a simple coffee menu based on html and css
 
 # Installation / Run Instructions
 
-## Step 1:
-
 Use `Go Live` feature on VS Code
 
 # Reference / Credits
